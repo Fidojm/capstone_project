@@ -115,4 +115,4 @@ if __name__ == '__main__':
 # Which payload range(s) has the highest launch success rate? // 1952 to 3696.65
 # Which payload range(s) has the lowest launch success rate? // 5301 to 10000
 # Which F9 Booster version (v1.0, v1.1, FT, B4, B5, etc.) has the highest
-# launch success rate? FT
+# launch success rate? // FT
